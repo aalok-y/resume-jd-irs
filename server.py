@@ -13,7 +13,7 @@ import tempfile
 from google import genai
 
 
-API_KEY = "AIzaSyDUi9Nz6VVr9wxUxHHHic1VazJcYAo-X6Q"
+API_KEY = "AIzaSyDUi9Nz6"
 
 client = genai.Client(api_key=API_KEY)
 
